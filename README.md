@@ -23,7 +23,7 @@ This challenge, assigned by Rutgers Coding Bootcamp, required refactoring the co
   * Redux
 
 ## Installation
-  In order to view the application locally the user must install Node.js on their PC, initialize Node in the command line, and install the files from package.json.
+  In order to view the application locally the user must install Node.js on their PC, initialize Node in the command line, and install the files from package.json. To view pre-set products run `npm run seed` to seed the database with products.
 
 ## Usage
   The user can access the Shop Shop webpage link provided in the `Links` section of this README.
@@ -44,7 +44,7 @@ This challenge, assigned by Rutgers Coding Bootcamp, required refactoring the co
   [Link to GitHub Repo](https://github.com/lchinquee/remos)
 
 ## Heroku Link
-  [Link to Website]()
+  [Link to Website](https://nameless-ravine-96476.herokuapp.com)
 
 # References
   Rutgers Coding Bootcamp class materials and TA resources.
